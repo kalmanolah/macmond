@@ -89,7 +89,7 @@ def stop_client(signum, frame):
 @click.option('--timeout', '-t', default=5, help='Arping timeout.')
 @click.option('--interval', '-i', default=30, help='Polling interval.')
 @click.option('--interface', '-if', type=click.Choice(interfaces), help='Network interface to operate on.')
-@click.option('--address', '-a', help='Network address to operator on.')
+@click.option('--address', '-a', help='Network address to operate on.')
 @click.pass_context
 def macmond(ctx, **kwargs):
     """MAC address Monitoring daemon."""

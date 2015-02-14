@@ -34,7 +34,7 @@ Options:
   -t, --timeout INTEGER           Arping timeout.
   -i, --interval INTEGER          Polling interval.
   -if, --interface [...]          Network interface to operate on.
-  -a, --address TEXT              Network address to operator on.
+  -a, --address TEXT              Network address to operate on.
   --help                          Show this message and exit.
 ```
 
