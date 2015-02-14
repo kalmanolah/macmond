@@ -16,7 +16,7 @@ setup(
     long_description=read('README'),
     author='Kalman Olah',
     author_email='hello@kalmanolah.net',
-    url='https://github.io/kalmanolah/macmond',
+    url='https://github.com/kalmanolah/macmond',
     license='MIT',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
